@@ -1,7 +1,7 @@
 {
-    "name": "Yukki Music Bot",
+    "name": "Fitri Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/c0e014ff34f34d1056627.png",
+    "logo": "https://telegra.ph/file/52e5f054518033b87a17e.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "14095395",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "5e3b6a7386ecf4efa90d85e8d796bca4",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -30,42 +30,42 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "5211388510:AAFCZUCfZ4h-stgxdp3OrKqXOTzmXho9Gyo",
         "required": true
       },
       "MONGO_DB_URI": {
-        "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
-        "value": "",
+        "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Fitri's database for you.",
+        "value": "mongodb+srv://excimoon:Cimoon12344@cluster0.r6ykv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
         "required": false
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "NAME BOT",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "1925052892",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BQAaKKL25TW6ja3sfnyq_H-lZw2h8UFd4ig96Vfmy3CejZ1arhL--rZ4Ru8RuP0YQHPGKhQrk-TI0xzYyuLnWDgmEbJossdeAqIxkBKD7r6BDrAQcIx2ETitaIZwLI84hP07vGEiZI6Fwj_IxSJHIr3M2ECrGEzWqj2b7vC0fTQX_Z_zEwWvtFxMFiKhBW1I-2yUBiEBcFJRXqWnHKSvZnoEQzZDWpj3R1G4Uztnf0CX6CpRRXFUXe1adoz3UVdncz0vz6fGVr4hnjixtsRu2gpNF-uBgXRslMs8XXMtRPSchZWgEmKO_E9FLhsE7IQ-SYl_Qdf4PkA-GLFdPb06fozYcr353AA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "8a3e015f-e527-471a-ad43-13ebd61d1887",
         "required": false
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app/bot's name",
-        "value": "",
+        "value": "PALING ATAS",
         "required": false
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1001656291919",
         "required": true
       },
       "UPSTREAM_REPO": {
